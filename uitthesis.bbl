@@ -1,0 +1,40 @@
+\begin{thebibliography}{7}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Ahamed {\em et~al.\/}(2010)Ahamed, Haque, Hoque, Rahman \&
+  Talukder}]{Ahamed2010FTMforPervasiveEnvironments}
+{\sc Ahamed, S.I., Haque, M.M., Hoque, M.E., Rahman, F. \& Talukder, N.}
+  (2010). Design, analysis, and deployment of omnipresent formal trust model
+  (ftm) with trust bootstrapping for pervasive environments. {\em Journal of
+  Systems and Software\/}, {\bf 83}, 253 -- 270.
+
+\bibitem[{Andress(2002)}]{Andress2002WLANSecurity}
+{\sc Andress, M.} (2002). Wireless lan security. {\em Information Systems
+  Security\/}, {\bf 11}, 29--33.
+
+\bibitem[{Barbeau(2012)}]{Barbeau2012P2PvoiceOverAdHocSurvey}
+{\sc Barbeau, M.} (2012). Point-to-point voice over ad hoc networks: A survey.
+  {\em Pervasive and Mobile Computing\/}, {\bf 8}, 376 -- 387.
+
+\bibitem[{Bennett(2012)}]{Bennett2012MobileDeviceForensicsChallenges}
+{\sc Bennett, D.} (2012). The challenges facing computer forensics
+  investigators in obtaining information from mobile devices for use in
+  criminal investigations. {\em Information Security Journal: A Global
+  Perspective\/}, {\bf 21}, 159--168.
+
+\bibitem[{Bertino \& Kirkpatrick(2009)}]{Bertino2009LAAandACC}
+{\sc Bertino, E. \& Kirkpatrick, M.} (2009). Location-aware authentication and
+  access control concepts and issues. In {\em Advanced Information Networking
+  and Applications, 2009. AINA '09. International Conference on\/}, 10 --15.
+
+\bibitem[{Breu {\em et~al.\/}(2004)Breu, Burger, Hafner \&
+  Popp}]{Breu2004TowardsASystemmaticDevelopmentOfSecureSystems}
+{\sc Breu, R., Burger, K., Hafner, M. \& Popp, G.} (2004). Towards a systematic
+  development of secure systems. {\em Information Systems Security\/}, {\bf
+  13}, 5--13.
+
+\bibitem[{Bunting(2012)}]{bunting2012encase}
+{\sc Bunting, S.} (2012). {\em EnCase Computer Forensics -- The Official EnCE:
+  EnCase Certified Examiner Study Guide\/}. John Wiley \& Sons.
+
+\end{thebibliography}
